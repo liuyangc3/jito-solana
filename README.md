@@ -5,7 +5,7 @@
 </p>
 
 [![Build status](https://badge.buildkite.com/3a7c88c0f777e1a0fddacc190823565271ae4c251ef78d83a8.svg)](https://buildkite.com/jito/jito-solana)
-
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/liuyangc3/jito-solana/badge)](https://api.securityscorecards.dev/projects/github.com/liuyangc3/jito-solana)
 # About
 This repository contains Jito's fork of the Solana validator.
 
